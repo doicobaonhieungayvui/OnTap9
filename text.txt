@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 khac ahihi
+=======
+Main vs khac
+>>>>>>> main
